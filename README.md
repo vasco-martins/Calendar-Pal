@@ -1,4 +1,17 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📅 [Calendar Pal](https://calendarpal.vercel.app/)
+
+Welcome to **Calendar Pal**! 🎉 This web app is your friendly assistant for creating and managing **quarterly calendars** with ease. Whether you're planning personal goals, team projects, or tracking milestones, Calendar Pal has you covered. 🚀
+
+---
+
+## 🌟 Features
+
+- **Quarterly Calendar Creation**: Effortlessly design calendars for any quarter of the year. 🗓️
+- **Customization Options**: Personalize your calendars with colors, labels, and themes. 🎨
+- **Intuitive Interface**: User-friendly design ensures a smooth experience for everyone. 💻
+- **Export and Share**: Save your calendars as PDFs or share them directly with your team. 📤
+
+---
 
 ## Getting Started
 
